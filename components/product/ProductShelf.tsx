@@ -1,5 +1,7 @@
 import { SendEventOnView } from "../../components/Analytics.tsx";
-import ProductCard from "../../components/product/ProductCard.tsx";
+import ProductCard, {
+  Layout as cardLayout,
+} from "../../components/product/ProductCard.tsx";
 import Icon from "../../components/ui/Icon.tsx";
 import Header from "../../components/ui/SectionHeader.tsx";
 import Slider from "../../components/ui/Slider.tsx";
@@ -24,6 +26,7 @@ export interface Props {
     headerfontSize?: "Normal" | "Large" | "Small";
     showArrows?: boolean;
   };
+  cardLayout?: cardLayout;
 }
 
 function ProductShelf({
@@ -31,6 +34,7 @@ function ProductShelf({
   title,
   description,
   layout,
+  cardLayout,
 }: Props) {
   const id = useId();
   const platform = usePlatform();
@@ -83,6 +87,7 @@ function ProductShelf({
               <ProductCard
                 product={product}
                 itemListName={title}
+                layout={cardLayout}
                 platform={platform}
                 index={index}
               />

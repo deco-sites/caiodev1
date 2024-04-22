@@ -5,7 +5,7 @@ interface Benefit {
   label: string;
   /**
    * @format icon-select
-   * @options site/loaders/availableIcons.ts
+   * @options deco-sites/storefront/loaders/availableIcons.ts
    */
   icon: AvailableIcons;
   description: string;

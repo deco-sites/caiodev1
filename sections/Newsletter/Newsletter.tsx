@@ -11,7 +11,7 @@ interface Content {
   border?: boolean;
   /**
    * @format button-group
-   * @options site/loaders/icons.ts
+   * @options deco-sites/storefront/loaders/icons.ts
    */
   alignment?: "Left" | "Center" | "Right";
   bgColor?: "Normal" | "Reverse";
@@ -20,7 +20,7 @@ interface Content {
 interface Header {
   /**
    * @format button-group
-   * @options site/loaders/icons.ts
+   * @options deco-sites/storefront/loaders/icons.ts
    */
   fontSize?: "Small" | "Normal" | "Large";
 }
