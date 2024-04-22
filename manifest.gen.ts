@@ -105,24 +105,19 @@ const manifest = {
     "deco-sites/caiodev1/sections/Links/LinkTree.tsx": $$$$$$30,
     "deco-sites/caiodev1/sections/Links/Shortcuts.tsx": $$$$$$31,
     "deco-sites/caiodev1/sections/LpImages/Lpimages.tsx": $$$$$$32,
-    "deco-sites/caiodev1/sections/Miscellaneous/CampaignTimer.tsx":
-      $$$$$$33,
-    "deco-sites/caiodev1/sections/Miscellaneous/CookieConsent.tsx":
-      $$$$$$34,
+    "deco-sites/caiodev1/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$33,
+    "deco-sites/caiodev1/sections/Miscellaneous/CookieConsent.tsx": $$$$$$34,
     "deco-sites/caiodev1/sections/Miscellaneous/MyGallery.tsx": $$$$$$35,
     "deco-sites/caiodev1/sections/Miscellaneous/Slide.tsx": $$$$$$36,
     "deco-sites/caiodev1/sections/Miscellaneous/StickyImage.tsx": $$$$$$37,
     "deco-sites/caiodev1/sections/Newsletter/Newsletter.tsx": $$$$$$38,
-    "deco-sites/caiodev1/sections/Product/ImageGalleryFrontBack.tsx":
-      $$$$$$39,
+    "deco-sites/caiodev1/sections/Product/ImageGalleryFrontBack.tsx": $$$$$$39,
     "deco-sites/caiodev1/sections/Product/NotFound.tsx": $$$$$$40,
     "deco-sites/caiodev1/sections/Product/NotFoundChallenge.tsx": $$$$$$41,
     "deco-sites/caiodev1/sections/Product/ProductDetails.tsx": $$$$$$42,
-    "deco-sites/caiodev1/sections/Product/ProductHorizontalCard.tsx":
-      $$$$$$43,
+    "deco-sites/caiodev1/sections/Product/ProductHorizontalCard.tsx": $$$$$$43,
     "deco-sites/caiodev1/sections/Product/ProductShelf.tsx": $$$$$$44,
-    "deco-sites/caiodev1/sections/Product/ProductShelfTabbed.tsx":
-      $$$$$$45,
+    "deco-sites/caiodev1/sections/Product/ProductShelfTabbed.tsx": $$$$$$45,
     "deco-sites/caiodev1/sections/Product/SearchResult.tsx": $$$$$$46,
     "deco-sites/caiodev1/sections/Product/ShelfWithImage.tsx": $$$$$$47,
     "deco-sites/caiodev1/sections/Product/Wishlist.tsx": $$$$$$48,
