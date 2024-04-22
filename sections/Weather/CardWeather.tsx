@@ -1,4 +1,4 @@
 export {
   default,
   loader,
-} from "deco-sites/rafaelbspcamp/components/weather/CardWeather.tsx";
+} from "deco-sites/caiodev1/components/weather/CardWeather.tsx";

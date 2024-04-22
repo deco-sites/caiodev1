@@ -1,1 +1,1 @@
-export { default } from "deco-sites/rafaelbspcamp/components/coupon/Coupon.tsx";
+export { default } from "deco-sites/caiodev1/components/coupon/Coupon.tsx";

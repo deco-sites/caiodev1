@@ -1,5 +1,5 @@
 import { HTMLWidget as HTML } from "apps/admin/widgets.ts";
-import CouponCard from "deco-sites/rafaelbspcamp/islands/Coupon/CouponCard.tsx";
+import CouponCard from "deco-sites/caiodev1/islands/Coupon/CouponCard.tsx";
 const DEFAULT_PROPS = {
   title: "CUPOM",
   text:

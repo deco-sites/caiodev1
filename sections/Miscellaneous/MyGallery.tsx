@@ -1,1 +1,1 @@
-export { default } from "deco-sites/rafaelbspcamp/components/mygallery/MyGallery.tsx";
+export { default } from "deco-sites/caiodev1/components/mygallery/MyGallery.tsx";

@@ -1,1 +1,1 @@
-export { default } from "deco-sites/rafaelbspcamp/components/StickyImage/StickyImage.tsx";
+export { default } from "deco-sites/caiodev1/components/StickyImage/StickyImage.tsx";
